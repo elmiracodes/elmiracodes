@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hello world 👋, I'm Elmira!
+#### 👋 I'm a Systems development student at [University West](https://www.hv.se/en/) 
 
-<!--
-**elmiracodes/elmiracodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ | [Twitter ](https://twitter.com/elmiracodes)| [ Linkedin ](https://www.linkedin.com/in/elmirabirank/) |  
 
-Here are some ideas to get you started:
-
+    
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
+  | heading 1| heading 2 | heading 3 |
+  | :--- | :--- | ---:|
+  | row 1 column 1 | row 1 column 2 | row 1 column 3|
+  Projects so far:
+ -  [x] Item 2
+  - [ ] Items 1
+  - [ ] Item 2
+ 
