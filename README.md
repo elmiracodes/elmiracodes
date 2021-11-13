@@ -1,5 +1,5 @@
 # Hello world 👋, I'm Elmira!
-#### 👋 I'm a Systems development student at [University West](https://www.hv.se/en/) 
+#### 👋 I'm a Systems development student at [University West](https://www.hv.se/en/)  ![](hi.gif)
 
  | [Twitter ](https://twitter.com/elmiracodes)| [ Linkedin ](https://www.linkedin.com/in/elmirabirank/) |  
 
