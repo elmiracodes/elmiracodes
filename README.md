@@ -1,5 +1,7 @@
 # Hello world 👋, I'm Elmira!
-#### 👋 I'm a Systems development student at [University West](https://www.hv.se/en/)  ![](hi.gif)
+#### <img src="/Hi.gif" width="40" height="40"/>  I'm a Systems development student at [University West](https://www.hv.se/en/)  
+
+
 
  | [Twitter ](https://twitter.com/elmiracodes)| [ Linkedin ](https://www.linkedin.com/in/elmirabirank/) |  
 
