@@ -1,9 +1,25 @@
-# Hello world 👋, I'm Elmira!
+
+
+<h3 align="center">
+  Hello world, I'm Elmira!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG  section -->
+<p align="center">
+  <a href="https://github.com/elmiracodes/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;BsC%20Systems%20Development%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7f3ace&vCenter=true&size=22"></a>
+ 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://twitter.com/elmiracodes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/H6wnjuj.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
 #### <img src="/Hi.gif" width="40" height="40"/>  I'm a FrontEnd developer from Sweden and a Systems development student at [University West](https://www.hv.se/en/)!  <br />
 <br />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237f3ace&size=25&vCenter=true&width=459&height=60&lines=Full-stack+web+and+App+developer;BSc+System+development+student+;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/elmiracodes?label=%40elmiracodes&style=social) <br />
 <br />
