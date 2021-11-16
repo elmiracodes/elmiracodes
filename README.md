@@ -20,7 +20,7 @@
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmiracodes&show_icons=true&theme=midnight-purple)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elmiracodes&theme=midnight-purple)](https://git.io/streak-stats)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/elmiracodes?label=%40elmiracodes&style=social) <br />
 <br />
@@ -66,7 +66,7 @@ About me
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmiracodes&show_icons=true&theme=midnight-purple)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elmiracodes&theme=midnight-purple)](https://git.io/streak-stats)
+
 
 
 
