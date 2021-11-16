@@ -1,5 +1,3 @@
-
-
 <h3 align="center">
   Hello world, I'm Elmira!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -15,9 +13,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-
-#### <img src="/Hi.gif" width="40" height="40"/>  I'm a FrontEnd developer from Sweden and a Systems development student at [University West](https://www.hv.se/en/)!  <br />
-<br />
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center">
 
 
 
@@ -35,8 +36,12 @@
    
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="27px" height="27px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="27px" height="27px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="Csharp" width="27px" height="27px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="27px" height="27px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="27px" height="27px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="Android" width="27px" height="27px" /> 
 
+<!-- Intro -->
+#### <img src="/Hi.gif" width="40" height="40"/>  I'm a FrontEnd developer from Sweden and a Systems development student at [University West](https://www.hv.se/en/)! 
 
-About me
+
+
+About me 
 - 👩‍💻 I'm a BSc System Development student based in Sweden
 - 🌱 I’m currently learning React & React Native
 - 👯 I’m looking to collaborate with other learners
@@ -60,7 +65,11 @@ About me
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmiracodes&show_icons=true&theme=buefy)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmiracodes&show_icons=true&theme=midnight-purple)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elmiracodes&theme=midnight-purple)](https://git.io/streak-stats)
+
+
+
 
 
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
