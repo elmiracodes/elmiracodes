@@ -4,7 +4,7 @@
   
 </h3>
 
-<!-- Typing SVG  hej section -->
+<!-- Typing SVG  section -->
 <p align="center">
   <a href="https://github.com/elmiracodes/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;BsC%20Systems%20Development%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7f3ace&vCenter=true&size=22"></a>
  
