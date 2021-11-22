@@ -1,7 +1,8 @@
 <!-- NOT DONE YET --> 
 
 
-
+<h3 align="center"> This profile is under construction lol
+</h3>
 <h3 align="center">
   Hello world, I'm Elmira!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
