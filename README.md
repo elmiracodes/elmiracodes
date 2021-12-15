@@ -48,13 +48,11 @@
 
 
 About me 
-- 👩‍💻 I'm a BSc System Development student based in Sweden
-- 🌱 I’m currently learning React & React Native
-- 👯 I’m looking to collaborate with other learners
-- 📝 I write tech articles on Hashnode 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👩‍💻 I'm a CS student based in Sweden
+- 🌱 Currently learning React 
+- 👯 Looking to collaborate with other learners
+- 📝 I write Tech articles on Hashnode 
+- 📫 How to reach me: 
 - 😄 Connect with me on [Twitter ](https://twitter.com/elmiracodes)
 - ⭐ Find me on [ Linkedin ](https://www.linkedin.com/in/elmirabirank/) 
   
