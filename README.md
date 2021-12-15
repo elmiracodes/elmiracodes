@@ -52,7 +52,6 @@ About me
 - 🌱 Currently learning React 
 - 👯 Looking to collaborate with other learners
 - 📝 I write Tech articles on Hashnode 
-- 📫 How to reach me: 
 - 😄 Connect with me on [Twitter ](https://twitter.com/elmiracodes)
 - ⭐ Find me on [ Linkedin ](https://www.linkedin.com/in/elmirabirank/) 
   
