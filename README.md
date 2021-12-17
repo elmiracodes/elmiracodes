@@ -23,7 +23,6 @@
 - 👩‍💻 I'm a CS student based in Sweden
 - 🌱 Currently learning React 
 - 👯 Looking to collaborate with other learners
-- 📝 I write Tech articles on Hashnode 
 - 😄 Connect with me on [Twitter ](https://twitter.com/elmiracodes) ![Twitter Follow](https://img.shields.io/twitter/follow/elmiracodes?label=%40elmiracodes&style=social) <br />
 
  #### Languages and Tools:
