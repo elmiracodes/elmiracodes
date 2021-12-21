@@ -37,7 +37,7 @@
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmiracodes&show_icons=true&theme=midnight-purple)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elmiracodes&theme=midnight-purple)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmiracodes&show_icons=true&theme=midnight-purple)
 
 
 
